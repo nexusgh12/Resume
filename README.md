@@ -322,6 +322,8 @@ Python을 이용한 미로 게임을 기반으로 한 미로-탈출 게임입니
 
 ### 활동 사진
 ![출력1](https://i.esdrop.com/d/NvTbOwZ1cr.jpg)
+<br>
+![출력2](https://i.esdrop.com/d/zmp1S1t4tt.jpg)
 
 
 ### - 기간
