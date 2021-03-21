@@ -61,7 +61,7 @@ Unity를 이용한 게임개발에도 관심이 많습니다.<br>
 ---
 # 주요 이수 과목
 ![이수과목](https://i.esdrop.com/d/2e5Di1Qo31.JPG)
-
+![이수과목](https://i.esdrop.com/d/RGEaKwPMWg.JPG)
 ---
 
 # Projects
